@@ -1,3 +1,37 @@
 #Software Project management is an art and discipline of planning and supervising software projects. it is a sub-discipline of software project management in which software projects planned, implemented, monitored and controlled.
 
-it is a procedure of managing, allocating and timing resources to develop computer software that fullfills requirements. 
+it is a procedure of managing, allocating and timing resources to develop computer software that fullfills requirements. in software project management, the client and the developers need to know the length, period and cost of the project.
+
+Characteristics of software project management
+1.Collaboration:- The software project management should facilitate the team collaboration. this means that the relevant stakeholders of the project should be able to access and update the project documents whever they want to. 
+
+therefore, the project management software should have access control and authentication management in order to grand acess leveles to the project stakeholders.
+
+2.Scheduling:- Scheduling is one of the main features that should be provided by software project management. usually, modern software project management provides the ability to draw gantt charts when it comes to acitivity scheduling.
+
+in addition to this, acitivity dependencies can also be added to the schedules, so such sofware will show you the project critical path and later changes to the critical path automactically.
+
+Baselining is also a useful feature offered by project management software. Usually, a project is basedlined when the requirements are finalized.
+
+When requirements are changed and new requirements are added to the project later, project management team can compare the new schedule with the baseline schedule automatically to understand the project scope and cost deviations.
+
+
+3.Issue tacking:- During the project life cycle, there can be many issues related to project that needs constant tracking and monitoring. software defects is one of the good examples for this.
+
+therefore, the software project management should have features to track and monitor the issues reported by various stakeholder of the project.
+
+4.Project protfolio management:- Project portfolio management is one of the key aspects when an organization has engaged in more than one project. the organization should be able to measure and monitor multiple projects, so the organization knows how the projects progress overall.
+
+
+5.Document Management:- A project has many documents in use. most of these documents should be accessible to the stakeholders of the project. therefore, the software project management should have a document management facility with correct access control system.
+
+
+6.Resource management:- Resource management of the project is one of the key expectations from project management software. this includes both human resources and other types.
+
+the software project management should show the utilization of each resource throughtou the entire project life cycle.
+
+
+#Activities of software project management consists of many activities that including planning of the project, deciding the scope product, estimation of cost in different terms, scheduling of tasks etc.
+
+
+1.Project planning and tracking:- it is a set of multiple processes, or we say this it is a task perfomed before the contruction of the product starts.
