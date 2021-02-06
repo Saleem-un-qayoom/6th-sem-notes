@@ -35,3 +35,26 @@ the software project management should show the utilization of each resource thr
 
 
 1.Project planning and tracking:- it is a set of multiple processes, or we say this it is a task perfomed before the contruction of the product starts.
+
+2.Scope Management:- it describes the scope of the project. Scrope management is important because it clearly defines what would do and what would not. scope managament create the project to contain restricted and quantitative tasks, which may merely be documented and successively avoids price and time overrun
+
+3.Estimation management:- This is not only about cost estimation because whenever we start to develop software, but we also figure out their size(line of code), efforts, time as well as cost.
+
+if we talk about the size, then line of code depends upon user or software requirement.
+
+if we talk about effor, we should know the size of the software, because based on the size we can quickly estimate how big team required to produce the software.
+
+if we talk about time, when size and efforts are estimated, the time required to develop the sofware can easily determine.
+
+and if we talk about cost, it includes all elements such as
+1.size of software
+2.quality
+3.hardware
+4.communication
+5.training
+6.additional sofware and tools
+7.skilled manpower
+
+
+4.Scheduling management:- Scheduling management in software refers to all the activities to complete in the specified order and within time provided to each activity. Project managers define multiple tasks and arrange them keeping various factors in mind.
+
